@@ -1,0 +1,6 @@
+{
+  "name": "Lär Dig Svenska",
+  "description": "A mobile-first web application to help users learn Swedish through topic-based sentence examples, featuring Persian translations, audio pronunciation, favorites, and search history. Uses Gemini API for dynamic content generation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
